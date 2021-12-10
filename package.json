@@ -11,7 +11,8 @@
         "email": "tislam@atlasssian.com",
     },
     "repository":{
-        "url": 
+        "url": "https://github.com/tatsislam/Atlassian-Design-Theme",
+        "type": "git"
     },
     "categories": [
         "Themes"
