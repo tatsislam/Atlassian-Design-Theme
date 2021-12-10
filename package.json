@@ -6,6 +6,7 @@
     "engines": {
         "vscode": "^1.63.0"
     },
+    "icon": "atlas.png",
     "author": {
         "name": "Tanvee Islam",
         "email": "tislam@atlasssian.com",
