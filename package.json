@@ -1,0 +1,28 @@
+{
+    "name": "atlassian-theme",
+    "displayName": "Atlassian Design Theme",
+    "description": "A VSCode theme based on the Atlassian Design System",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "author": {
+        "name": "Tanvee Islam",
+        "email": "tislam@atlasssian.com",
+    },
+    "repository":{
+        "url": 
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Atlassian Design Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Atlassian Design Theme-color-theme.json"
+            }
+        ]
+    }
+}
